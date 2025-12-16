@@ -1,0 +1,12 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "first work with node js :)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Kiril",
+  "license": "ISC"
+}
